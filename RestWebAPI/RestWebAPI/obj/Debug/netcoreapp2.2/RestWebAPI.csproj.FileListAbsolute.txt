@@ -7,7 +7,6 @@ C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\bin\Debug\ne
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\bin\Debug\netcoreapp2.2\RestWebAPI.dll
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\bin\Debug\netcoreapp2.2\RestWebAPI.pdb
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.csprojAssemblyReference.cache
-C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.RazorAssemblyInfo.cache
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.RazorAssemblyInfo.cs
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\ne
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.dll
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.pdb
 C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.genruntimeconfig.cache
+C:\Users\casa\Desktop\Cursos\RestWebAPI-Udemy\RestWebAPI\RestWebAPI\obj\Debug\netcoreapp2.2\RestWebAPI.csproj.CoreCompileInputs.cache
